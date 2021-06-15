@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iamhks.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://iamhks.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iamhks.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://iamhks.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iamhks.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/posts/qna-on-life-by-sher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://iamhks.com/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iamhks.com/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://iamhks.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iamhks.com/tags/"
+                />
+  </url>
+  
+</urlset>
