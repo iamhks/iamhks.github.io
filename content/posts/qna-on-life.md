@@ -1,5 +1,5 @@
 +++
-title= "QnA on Life by SHER"
+title= "Q&A on Life"
 date= "2021-01-05"
 +++
 
