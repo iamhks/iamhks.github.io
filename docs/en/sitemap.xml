@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iamhks.com/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://iamhks.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iamhks.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/posts/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iamhks.com/posts/qna-on-life-by-sher/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iamhks.com/about/</loc>
   </url>
   
@@ -18,28 +43,6 @@
                 hreflang="en"
                 href="https://iamhks.com/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://iamhks.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iamhks.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iamhks.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iamhks.com/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iamhks.com/posts/qna-on-life-by-sher/</loc>
   </url>
   
   <url>
