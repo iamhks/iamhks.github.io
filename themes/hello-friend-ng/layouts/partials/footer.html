@@ -4,7 +4,7 @@
         <div class="footer__content">
             {{ if .Site.Params.footer.trademark }}<span>&copy; {{ now.Format "2006" }}</span>{{ end }}
             {{ if .Site.Params.footer.author }}<span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>{{ end }}
-            <a href="https://iamhks.com/privacy-policy/">Privacy Policy</a>
+            <a href="/privacy-policy/">Privacy Policy</a>
         </div>
     </div>
     {{ end }}
