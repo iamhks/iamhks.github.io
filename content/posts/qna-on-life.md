@@ -127,7 +127,7 @@ We procrastinate because we've failed in something before or just don’t feel l
 
 # Random
 ### What to do when just bored? 
-Sleep>Read>Talk to your bae>Watch the Northern Lights>Video tour of Maldives white sand beaches>Update your bucket list
+Sleep>Read>Talk to your bae>Watch the Northern Lights>Video tour of some white sand beaches>Update your bucket list
 
 ### I am feeling something which is inexplicable. 
 Now is the correct time to become a spectator instead of a doer. Just observe what you are feeling, don't try to make meaning out of anything just observe. If not for an experience, it'll definitely be a reasonable timepass.
@@ -136,11 +136,13 @@ Now is the correct time to become a spectator instead of a doer. Just observe wh
 It's not like you're never happy, it's just that your happy moments are infrequent. Have you tried creating something instead of just consuming videos, news feed, songs, talk (being a listener) etc... Try making something, anything, stories, art, book, music, dance, a project on your coursework, talk to random people (being the speaker). Make a journal or use a notepad on your phone and note down ideas that pop up in your mind now and then and try to pursue them sometime. 
 
 ### Should I leave my home country in pursuit of a developed country?
-Let's see what all options you have:<br>
-Case 1: You leave your home country, and get a better environment for yourself and your family with top notch facilities. But at the end of the day, it's not your community you'll either feel out of place somehow or the other because it's deep rooted in human mind, you and your family will be discriminated. Don't try to argue, you know it's true.<br>
+Let's see what are the available options:
+
+Case 1: You leave your home country, and get a better environment for yourself and your family with top notch facilities. But at the end of the day, it's not your community you'll either feel out of place somehow or the other because it's deep rooted in human mind, you and your family will be discriminated. Don't try to argue, you know it's true.
+
 Case 2: You stay in your home country and work towards its development instead of running away like the rest and you'll have your people with whom you do have clashes at times but a sense of community still thrives since all of you belong to that place. But, you will not get the top notch facilities available in developed countries, your kids might not get the best education, and health services may be comparatively poor.
 
-Either way, you need to compromise on something. So, choose your damn sacrifice. How to choose? Just pick the one that feels nice to you man!
+Either way, you need to compromise on something. So, choose your damn sacrifice. How do you choose? Just pick the one that feels nice to you man! You can always change but try to think long term.
 
 ### I don't really like the people in my caste/community, how do I change them?
 You can’t. Period. It’s obvious that you don’t like the negative stuff associated with them like jealousy, back biting, hatred, defamation and stuff like that. Understand that no one is perfect; being a human everyone has flaws. Caste is prevalent in every religion, not just in Hinduism. Islam/Muslims have Shia/Sunni/Kharijite/Ibadi etc. Christians have Baptist/Episcopalian/Evangelist/Methodist/Presbyterian/Pentecostal/Charismatic/Lutheran/Anglican etc. So, there’s basically no place to run away from it.
