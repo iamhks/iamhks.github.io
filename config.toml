@@ -154,12 +154,14 @@ disableHugoGeneratorInject = false
     url  = "mailto:contact@iamhks.com"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/iamhks"
-
-  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/iamhks"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/themindschatter"
+
+
 
 
 [languages]

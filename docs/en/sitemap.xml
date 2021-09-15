@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://iamhks.com/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
@@ -15,23 +14,15 @@
                 hreflang="en"
                 href="https://iamhks.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iamhks.com/posts/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iamhks.com/posts/qa-on-life/</loc>
+  </url><url>
+    <loc>https://iamhks.com/posts/release-your-brakes-book-summary/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iamhks.com/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iamhks.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,9 +34,7 @@
                 hreflang="en"
                 href="https://iamhks.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iamhks.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,5 +47,4 @@
                 href="https://iamhks.com/tags/"
                 />
   </url>
-  
 </urlset>
