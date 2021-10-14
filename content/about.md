@@ -5,6 +5,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Hey! My name is Hemant and I am from Nepal. I was brought up in Biratnagar, completed my schooling in Pokhara and attended high-school in Siliguri. I was fortunate enough to get into National Institute of Technology Warangal which is where I am pursuing my Bacholer's in Computer Science and Engineering. I chose to major in CSE because exploring the meaningful impact of technology is something that excites me to the core! 
+Hey! I’m Hemant, an Engineering student at National Institute of Technology Warangal. I am fascinated by the intersection between humans and computers i.e, I am majoring in Computer Science and Engineering (CSE), and am passionate about finding new ways to use computing to maximize social impact. I’m an effective communicator, a productive team member, and a smart leader. Exploring the meaningful impact of technology is something that excites me to the core!
+ 
 
 I also run [The Mind's Chatter](https://www.themindschatter.com) where I write articles on "Life" as a whole.
