@@ -8,7 +8,7 @@ aliases = ["about-us","about-hugo","contact"]
 Hemant is the name my parent's gave me and SHER is the name I gave myself.
 About pages are usually very lengthy and boring. I'll try not make this an auto-biography and keep things simple for you. About my:
 
-[Profession](#profession) &nbsp; [Avocation](#avocation) &nbsp; [Background & Hobbies](#backgroud-hobbies) &nbsp; [Contact](#contact)
+[Profession](#profession) &nbsp; [Avocation](#avocation) &nbsp; [Background & Interests](#background--interests) &nbsp; [Contact](#contact)
 
 &nbsp;
 ![SHER](/Tcover.jpg)
@@ -19,7 +19,7 @@ Always being fascinated with Computers & Technology as any other kid growing up 
 ## Avocation
 Writing is my escape from the real world, a medium through which I can wander to places and thoughts without boundaries. I started writing through [The SHER's Blog](https://blog.iamhks.com) and now I run [The Mind's Chatter](https://www.themindschatter.com) where I write articles on "Life" as a whole.
 
-## Background & Hobbies
+## Background & Interests
 I was brought up in Biratnagar, Nepal. I completed my secondary schooling from [Nepal Bharat Maitri Vidyalaya](https://www.nbmv.edu.np/), Pokhara, Nepal; my high school from [Delhi Public School Siliguri](https://www.dpssiliguri.com/), West Bengal and my undergrad from [National Institute of Technology Warangal](https://www.nitw.ac.in), Telangana, India. 
 
 Stuff I am interested in varies from human history & civilization, wildlife documentaries to adoring bollywood movies from the 2000s and ofcourse I am a fanatic of Indian music.
