@@ -5,7 +5,28 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Hey! I’m Hemant, an Engineering student at National Institute of Technology Warangal. I am fascinated by the intersection between humans and computers i.e, I am majoring in Computer Science and Engineering (CSE), and am passionate about finding new ways to use computing to maximize social impact. I’m an effective communicator, a productive team member, and a smart leader. Exploring the meaningful impact of technology is something that excites me to the core!
- 
+Hemant is the name my parent's gave me and SHER is the name I gave myself.
+About pages are usually very lengthy and boring. I'll try not make this an auto-biography and keep things simple for you. About my:
 
-I also run [The Mind's Chatter](https://www.themindschatter.com) where I write articles on "Life" as a whole.
+[Profession](#profession) &nbsp; [Avocation](#avocation) &nbsp; [Background & Hobbies](#backgroud-hobbies) &nbsp; [Contact](#contact)
+
+&nbsp;
+![SHER](/Tcover.jpg)
+
+## Profession
+Always being fascinated with Computers & Technology as any other kid growing up in the early to mid 2000s would be, I majored in Computer Science & Engineering during my undergrad and here are some of the projects I worked on : [HKS's Projects](https://iamhks.com/projects).
+
+## Avocation
+Writing is my escape from the real world, a medium through which I can wander to places and thoughts without boundaries. I started writing through [The SHER's Blog](https://blog.iamhks.com) and now I run [The Mind's Chatter](https://www.themindschatter.com) where I write articles on "Life" as a whole.
+
+## Background & Hobbies
+I was brought up in Biratnagar, Nepal. I completed my secondary schooling from [Nepal Bharat Maitri Vidyalaya](https://www.nbmv.edu.np/), Pokhara, Nepal; my high school from [Delhi Public School Siliguri](https://www.dpssiliguri.com/), West Bengal and my undergrad from [National Institute of Technology Warangal](https://www.nitw.ac.in), Telangana, India. 
+
+Stuff I am interested in varies from human history & civilization, wildlife documentaries to adoring bollywood movies from the 2000s and ofcourse I am a fanatic of Indian music.
+
+## Contact
+The best way to contact me is via email. 
+
+My professional email is hks[at]iamhks[dot]com.
+
+My personal email is contact[at]iamhks[dot]com.

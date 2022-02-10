@@ -165,6 +165,7 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/themindschatter"
 
+
   
 
 
@@ -183,8 +184,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    url        = "about/"  
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Posts"
+  #  url        = "posts/"
