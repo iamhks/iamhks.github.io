@@ -2,7 +2,7 @@
 title = "About"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "HKS"
 +++
 
 Hemant is the name my parent's gave me and SHER is the name I gave myself.
