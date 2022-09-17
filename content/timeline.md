@@ -22,7 +22,7 @@ aliases = ["pictures","visuals","timeline"]
 
 ![image](/NITW_7.jpg)
 
-## Delhi Public School ([High School](https://www.dpssiliguri.com/))
+## Delhi Public School, Siliguri ([Intermediate](https://www.dpssiliguri.com/))
 ![image](/DPS_0.jpg)
 
 ![image](/DPS_2.jpg)
