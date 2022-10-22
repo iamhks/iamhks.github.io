@@ -5,6 +5,14 @@ aliases = ["pictures","visuals","timeline"]
   name = "HKS"
 +++
 
+## Honeywell Aerospace, Hyderabad ([First Job](https://aerospace.honeywell.com/))
+
+![image](/Honeywell_0.jpg)
+
+![image](/Honeywell_1.jpg)
+
+![image](/Honeywell_2.jpg)
+
 ## National Institute of Technology Warangal ([Graduate](https://www.nitw.ac.in/))
 ![image](/NITW_0.jpg)
 
@@ -18,7 +26,7 @@ aliases = ["pictures","visuals","timeline"]
 
 ![image](/NITW_5.jpg)
 
-![image](/NITW_6.jpg) 
+![image](/NITW_convo.jpg) 
 
 ![image](/NITW_7.jpg)
 
