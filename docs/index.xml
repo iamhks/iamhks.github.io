@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhks.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low Level System Design Notes</title>
+      <link>https://iamhks.com/posts/low-level-system-design-notes/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhks.com/posts/low-level-system-design-notes/</guid>
+      <description>Attached below is a soft copy of my notes on Low-Level System Design. I made these with the help of Refactoring Guru website and Concept&amp;amp;Coding youtube channel.
+Link to the pdf: https://github.com/iamhks/projects/blob/master/Low%20Level%20System%20Design.pdf</description>
+    </item>
+    
     <item>
       <title>Q&amp;A on Life</title>
       <link>https://iamhks.com/posts/qa-on-life/</link>
