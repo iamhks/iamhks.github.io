@@ -5,6 +5,14 @@ aliases = ["pictures","visuals","timeline"]
   name = "HKS"
 +++
 
+## Unstructured Studio ([First Remote Work Experience](https://www.outreachy.org/alums/2023-05/))
+
+![image](/Outreachy.png)
+
+![image](/Outreachy_1.png)
+
+![image](/Outreachy_2.png)
+
 ## Honeywell Aerospace, Hyderabad ([First Job](https://aerospace.honeywell.com/))
 
 ![image](/Honeywell_0.jpg)
@@ -12,6 +20,8 @@ aliases = ["pictures","visuals","timeline"]
 ![image](/Honeywell_1.jpg)
 
 ![image](/Honeywell_2.jpg)
+
+![image](/Honeywell_3.jpg)
 
 ## National Institute of Technology Warangal ([Graduate](https://www.nitw.ac.in/))
 ![image](/NITW_0.jpg)
