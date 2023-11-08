@@ -5,7 +5,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "HKS"
 +++
 
-Welcome to my corner of the internet! Here you'll find information about my background and experience, as well as my skills and interests. Scroll down to learn about my professional experience, my contributions to open-source development, and my areas of expertise.
+Welcome to my corner of the internet! I invite you to explore my journey and passions. Here, you'll uncover my professional experiences, skills, and interests that shape who I am today.
 
 <!-- [Profession](#profession) &nbsp; [Avocation](#avocation) &nbsp; [Background & Interests](#background--interests) &nbsp; [Contact](#contact) -->
 
@@ -16,9 +16,9 @@ Welcome to my corner of the internet! Here you'll find information about my back
 <!-- ## Avocation
 My avocation keeps changing from time to time. It used to be paiting when I was a child to writing recently. Writing was my escape from the real world, a medium through which I can wander to places and thoughts without boundaries. I started writing through [The SHER's Blog](https://blog.iamhks.com) where I wrote articles on "Life" as a whole for about 3 years until I put my pen down. I guess it's safe to say that over-thinking and imagination is my current avocation. -->
 
-**Education:** I completed my secondary schooling from [Nepal Bharat Maitri Vidyalaya](https://www.nbmv.edu.np/), Pokhara, Nepal; my high school from [Delhi Public School Siliguri](https://www.dpssiliguri.com/), West Bengal and my undergrad from [National Institute of Technology Warangal](https://www.nitw.ac.in), Telangana, India. 
+**Education:** I pursued my undergraduate in Engineering with a major in Computer Science at, [National Institute of Technology Warangal](https://www.nitw.ac.in), in India. This transformative journey not only equipped me with a solid foundation in my field but also instilled in me a passion for innovation and problem-solving. My time at NIT Warangal was a pivotal chapter in my academic and personal growth, shaping my path to getting into the tech industry. 
 
-**Background & Interests:** I was brought up in Biratnagar, Nepal and I currently reside in Hyderabad, India. Stuff I am interested in varies from human history & civilization, wildlife documentaries to adoring bollywood movies from the 2000s and ofcourse I am a fanatic of Indian music.
+**Interests:** I have an insatiable curiosity about human history and civilization, which has led me to explore the intricacies of our shared past. My fascination with the world of wildlife is showcased through a deep appreciation for documentaries that offer insights into the beauty and mysteries of the natural world.
 
 __Contact:__ The best way to contact me is via email: contact[at]iamhks[dot]com. 
 

@@ -1,5 +1,5 @@
 baseURL = "https://iamhks.com"
-title   = "Hemant Kumar Singh (HKS), SHER"
+title   = "Hemant Kumar Singh"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -121,7 +121,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = "🦁"
-    logoText     = "Hemant Kumar Singh (SHER)"
+    logoText     = "Hemant Kumar Singh (HKS)"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -149,13 +149,13 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/iamhks"
+#  [[params.social]]
+#    name = "github"
+#    url  = "https://github.com/iamhks"
     
-  [[params.social]]
-    name = "email"
-    url  = "mailto:contact@iamhks.com"
+#  [[params.social]]
+#    name = "email"
+#    url  = "mailto:contact@iamhks.com"
 
   [[params.social]]
     name = "linkedin"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hemant Kumar Singh (HKS), SHER</title>
+    <title>Hemant Kumar Singh</title>
     <link>https://iamhks.com/</link>
-    <description>Recent content on Hemant Kumar Singh (HKS), SHER</description>
+    <description>Recent content on Hemant Kumar Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -44,7 +44,7 @@ Link to the pdf: https://github.com/iamhks/projects/blob/master/RYB.pdf</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iamhks.com/about/</guid>
-      <description>Welcome to my corner of the internet! Here you&amp;rsquo;ll find information about my background and experience, as well as my skills and interests. Scroll down to learn about my professional experience, my contributions to open-source development, and my areas of expertise.
+      <description>Welcome to my corner of the internet! I invite you to explore my journey and passions. Here, you&amp;rsquo;ll uncover my professional experiences, skills, and interests that shape who I am today.
 Profession: I am a Software Engineer II at Honeywell, where I have been working since graduating from college. In my role at Honeywell, one of the things I worked on was to independently develop and launch a full-stack SaaS offering, which served as an addition to the existing product, resulting in a new revenue source.</description>
     </item>
     
